@@ -1,1 +1,2 @@
 # Quizwhiz
+QuizWhiz is a lightweight Java-based quiz application designed to test users’ knowledge through an interactive and user-friendly interface. The project demonstrates core Java concepts such as object-oriented programming, control flow, and data handling while providing a fun and engaging quiz experience. QuizWhiz allows users to answer multiple-choice questions, tracks their scores, and displays results at the end of the quiz, making it an ideal small project for learning and showcasing Java fundamentals.
